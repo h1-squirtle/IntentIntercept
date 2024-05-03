@@ -1,5 +1,5 @@
 # Intercepting Intents
-This project can be used to create a poc for intent interception vulnerability on BugBazaar application.
+This project can be used to create a poc for intent interception vulnerability on [BugBazaar](https://github.com/payatu/BugBazaar) application.
 
 ### How to exploit intent interception?
 1. Decompile the BugBazaar app in Jadx-gui and search for "startActivityForResult" keyword.
